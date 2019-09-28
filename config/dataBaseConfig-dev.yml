@@ -1,2 +1,2 @@
 dataBase:
-  profiles: dev
+  profiles: dev(test @RefreshScope)
