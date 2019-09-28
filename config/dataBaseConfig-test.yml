@@ -1,1 +1,2 @@
-profiles: test
+dataBase:
+  profiles: test
